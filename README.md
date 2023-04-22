@@ -1,8 +1,9 @@
 #  🗣️ Artti.
 
-> Your articulation helper
+
 ![artti app](https://user-images.githubusercontent.com/104806801/233767004-e8c0c53b-c7c3-45ba-a8cb-e8c4999bb804.png)
 
+> Your articulation helper
 
 ### 👧 Introduction
 
